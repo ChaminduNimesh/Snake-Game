@@ -1,0 +1,46 @@
+🐍 SnakeReal90 (Java Swing)
+
+A stylish Snake game built with Java Swing + Java2D, designed to feel modern while keeping the classic Snake rules. The snake turns in 90° directions, but is rendered with smooth curved elbows to look like a real snake body.
+
+✨ Features
+
+-  Classic Snake movement (UP/DOWN/LEFT/RIGHT)
+
+-  Smooth animation (interpolated motion)
+
+-  Wrap-around gameplay with a fix for corner “screen-bridge” drawing bug
+
+-  Fullscreen toggle (F11) + responsive scaling
+
+-  Eating + death sound effects (generated tones, no external files)
+  
+-  Score + Best score saved using Java Preferences
+
+-  Neon glow visuals + clean HUD and overlays
+
+🎮 Controls
+
+- Arrow Keys → Move
+
+- P → Pause/Resume
+
+- R → Restart
+
+- F11 → Fullscreen toggle
+
+- ESC → Menu
+
+- 🛠️ Tech Stack
+
+- Java • Swing • Java2D • javax.sound • Preferences
+
+## ▶️ How to Run
+
+### ✅ Requirements
+- Java JDK 17+ (or JDK 11+)
+
+Check installation:
+```bash
+java -version
+javac -version
+
