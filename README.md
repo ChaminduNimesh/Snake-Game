@@ -36,6 +36,17 @@ A stylish Snake game built with Java Swing + Java2D, designed to feel modern whi
 
 ## ▶️ How to Run
 
+Windows (PowerShell)
+
+1) Open PowerShell in the folder that contains `SnakeReal90.java`
+
+Example:
+powershell
+1. cd "copy and paste your game file location "
+2. javac SnakeReal90.java
+3. java SnakeReal90
+
+
 ### ✅ Requirements
 - Java JDK 17+ (or JDK 11+)
 
